@@ -1,0 +1,9 @@
+# Requirements file
+# Usage: pip install -r requirements.txt
+
+
+torch==1.10.1
+torchvision==0.11.2
+tqdm==4.64.0
+matplotlib==3.5.1
+flask==2.0.3
